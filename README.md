@@ -21,7 +21,7 @@ This case study involves:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/DataAnalyticsCapstoneProjects.git
+    git clone https://github.com/FilipCharvat/How_does_a_bike-share_navigate_speedy_success.git
     ```
 1. Navigate to the project directory:
     ```bash
