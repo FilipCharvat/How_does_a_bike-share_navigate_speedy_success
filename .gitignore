@@ -1,0 +1,6 @@
+*.old
+run.bat
+*.pdf
+/.ipynb_checkpoints/*
+/.venv/*
+/.vscode/*

@@ -1,0 +1,15 @@
+* text=auto  eol=lf
+*.bat text eol=crlf
+
+*.txt text
+*.csv text
+*.md text
+
+*.png binary
+*.pdf binary
+
+*.py text diff=python
+
+
+*.py linguist-language=Python
+*.ipynb linguist-language=Jupyter Notebook
