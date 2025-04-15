@@ -23,15 +23,17 @@ This case study involves:
     ```bash
     git clone https://github.com/yourusername/DataAnalyticsCapstoneProjects.git
     ```
-2. Navigate to the project directory:
+1. Navigate to the project directory:
     ```bash
     cd How_does_a_bike-share_navigate_speedy_success
     ```
-3. Install dependencies:
+1. Install dependencies:
     ```bash
     pip install -r requirements.txt
     ```
-4. Run the Jupyter Notebook
+1. Extract data files<br>
+    - Select all rar files in the data folder and from the context menu select "Extract Here"
+1. Run the Jupyter Notebook
     ```bash
     jupyter notebook CaseStudy1.ipynb
     ```
